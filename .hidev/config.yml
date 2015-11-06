@@ -6,6 +6,7 @@ package:
     namespace:      hiqdev\yii2\assets\JqueryResizableColumns
     description:    Yii2 extension is a wrapper for [jquery-resizable-columns](https://github.com/dobtco/jquery-resizable-columns)
 
+
 require:
     hiqdev/hidev-config:        "*"
     hiqdev/hidev-config-php:    "*"
