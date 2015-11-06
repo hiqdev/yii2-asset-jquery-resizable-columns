@@ -1,0 +1,11 @@
+package:
+    title:          Yii2 asset for jQuery resizable columns
+    name:           yii2-asset-jquery-resizable-columns
+    type:           yii2-extension
+    keywords:       yii2, asset, jquery, resizable, columns
+    namespace:      hiqdev\yii2\assets\JqueryResizableColumns
+    description:    Yii2 extension is a wrapper for [jquery-resizable-columns](https://github.com/dobtco/jquery-resizable-columns)
+
+require:
+    hiqdev/hidev-config:        "*"
+    hiqdev/hidev-config-php:    "*"
