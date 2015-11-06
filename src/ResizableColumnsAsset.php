@@ -14,7 +14,7 @@ namespace hiqdev\yii2\assets\JqueryResizableColumns;
 /**
  * Asset bundle for jQuery resizable columns plugin for jQuery.
  */
-class ResizableColumnAsset extends \yii\web\AssetBundle
+class ResizableColumnsAsset extends \yii\web\AssetBundle
 {
     /**
      * {@inheritdoc}
