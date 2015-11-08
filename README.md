@@ -1,10 +1,15 @@
 Yii2 asset for jQuery resizable columns
 =======================================
+<? if ($config->package->headline != $config->package->title) { ?>
 
-Yii2 extension is a wrapper for [jquery-resizable-columns](https://github.com/dobtco/jquery-resizable-columns)
+**Yii2 asset for jQuery resizable columns**
+<? } ?>
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/yii2-asset-jquery-resizable-columns/v/stable)](//packagist.org/packages/hiqdev/yii2-asset-jquery-resizable-columns)
 [![Total Downloads](https://poser.pugx.org/hiqdev/yii2-asset-jquery-resizable-columns/downloads)](//packagist.org/packages/hiqdev/yii2-asset-jquery-resizable-columns)
+[![Dependency Status](https://www.versioneye.com/php/hiqdev:yii2-asset-jquery-resizable-columns/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:yii2-asset-jquery-resizable-columns/dev-master)
+
+Yii2 extension is a wrapper for [jquery-resizable-columns](https://github.com/dobtco/jquery-resizable-columns)
 
 ## Installation
 
