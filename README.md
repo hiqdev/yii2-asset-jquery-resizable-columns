@@ -1,9 +1,7 @@
 Yii2 asset for jQuery resizable columns
 =======================================
-<? if ($config->package->headline != $config->package->title) { ?>
 
-**Yii2 asset for jQuery resizable columns**
-<? } ?>
+Yii2 asset for jQuery resizable columns
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/yii2-asset-jquery-resizable-columns/v/stable)](//packagist.org/packages/hiqdev/yii2-asset-jquery-resizable-columns)
 [![Total Downloads](https://poser.pugx.org/hiqdev/yii2-asset-jquery-resizable-columns/downloads)](//packagist.org/packages/hiqdev/yii2-asset-jquery-resizable-columns)
