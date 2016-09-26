@@ -47,7 +47,7 @@
     "require": {
         "yiisoft/yii2": "~2.0",
         "hiqdev/yii2-asset-store-js": "*",
-        "bower-asset/jquery-resizable-columns": "*"
+        "bower-asset/jquery-resizable-columns": "~0.2.3"
     },
     "require-dev": {
         "hiqdev/hidev-php": "*",
