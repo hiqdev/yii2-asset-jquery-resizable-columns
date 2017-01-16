@@ -19,7 +19,7 @@ class ResizableColumnsAsset extends \yii\web\AssetBundle
     /**
      * {@inheritdoc}
      */
-    public $sourcePath = '@bower/jquery-resizable-columns/dist';
+    public $sourcePath = '@bower/hiqdev-jquery-resizable-columns/dist';
 
     /**
      * {@inheritdoc}
