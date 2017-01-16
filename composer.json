@@ -28,26 +28,26 @@
         {
             "name": "Dmitry Naumenko",
             "role": "Lead backend developer",
-            "email": "silverfire@hiqdev.com",
+            "email": "d.naumenko.a@gmail.com",
             "homepage": "http://silverfire.me/"
         },
         {
             "name": "Andrey Klochok",
             "role": "Lead frontend developer",
-            "email": "tafid@hiqdev.com",
+            "email": "andreyklochok@gmail.com",
             "homepage": "http://hiqdev.com/"
         },
         {
             "name": "Yuriy Myronchuk",
             "role": "QA Lead",
-            "email": "bladeroot@hiqdev.com",
+            "email": "bladeroot@gmail.com",
             "homepage": "http://hiqdev.com/"
         }
     ],
     "require": {
         "yiisoft/yii2": "~2.0",
         "hiqdev/yii2-asset-store-js": "*",
-        "bower-asset/jquery-resizable-columns": "~0.2.3"
+        "bower-asset/hiqdev-jquery-resizable-columns": "^2.2.4"
     },
     "require-dev": {
         "hiqdev/hidev-php": "*",
